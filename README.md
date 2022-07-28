@@ -16,10 +16,10 @@
 - Design : [Figma](https://www.figma.com/file/maNC6XnmZaSJ8Ep2y0EtDj/Dev-Books?node-id=0%3A1)
 <br>
 
-- 배포 URL : 
+- 배포 URL : https://dev-books-wannabecm.vercel.app/
 - 계정 <br>
-`ID`: <br>
-`Password`: 
+`ID`: devbooks@mail.com<br>
+`Password`: devbooks
 
 <br>
 
